@@ -1,0 +1,2 @@
+# Java ArrayIndexOutOfBoundsException
+This repository contains a simple Java program that demonstrates a common programming error: the ArrayIndexOutOfBoundsException. The program initializes an integer array and attempts to access an index beyond the array's allocated size, leading to this exception.  The solution demonstrates how to correct this by adjusting the loop condition to avoid exceeding the array bounds.
